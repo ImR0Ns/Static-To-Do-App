@@ -1,0 +1,10 @@
+* {
+    color: rgb(70, 69, 69);
+}
+.mainContainer {
+    background-color: rgb(223, 219, 219);
+    margin-top: 1%;
+    border-radius: 5px;
+    padding: 0%;
+    padding-bottom: 5%;
+}

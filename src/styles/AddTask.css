@@ -1,0 +1,30 @@
+.addTaskButton {
+    border: none;
+    padding: 1%;
+}
+.inputAddTask {
+    border: none;
+    padding: 1%;
+    width: 50%;
+}
+.activeTasks {
+    font-size: 24px;
+}
+.containerActiveTasks {
+    border: 1px solid black;
+    width: 80%;
+    margin: 5% auto;
+    padding: 3%;
+    border-radius: 5px;
+}
+.buttonsToSeeTasks button{
+    border: none;
+    margin: 1%;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.applicationTitle {
+    background-color: rgb(140, 229, 229);
+    padding: 4%;
+}
